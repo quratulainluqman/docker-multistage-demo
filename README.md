@@ -42,3 +42,7 @@ docker build -f Dockerfile.distroless -t demo-distroless .
 - Optimized Docker images
 - Improved container security
 - Hands-on DevOps fundamentals
+
+## 📸 Docker Images Output
+
+![Docker Images](docker-images.png)
